@@ -1,46 +1,82 @@
-# Hi 👋, I'm Debajit Biswas
+<h1 align="center">Hi 👋, I'm Debajit Biswas</h1>
 
-### 🚀 Aspiring Software Engineer | AI/ML & Robotics Enthusiast | Intern at @III | CSE Student
+<h3 align="center">
+Aspiring Software Engineer • AI/ML Enthusiast • Intern at @III • CSE Student
+</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Debajit345&label=Profile+Views&color=0e75b6&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/Debajit345?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/Debajit345?style=for-the-badge">
+</p>
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
-🎓 Diploma Student in Computer Science & Technology at JIS School of Polytechnic, Kalyani
+<h2>👨‍💻 About Me</h2>
 
-💡 Passionate about:
-- Data Science & Data Analytics
-- Artificial Intelligence & Machine Learning
-- Cloud Computing
-- Software Engineering
-- Business & Entrepreneurship
+🎓 Diploma Student in Computer Science & Technology
+
+🏫 JIS School of Polytechnic, Kalyani
 
 🌱 Currently Learning:
 - Python
-- AL/ML
-- Data Science and Data Analytics
 - C++
 - Data Structures & Algorithms
-- Robotics
+- AI & Machine Learning
+- Data Science
 - Web Development
 
 🎯 Goal:
-To become a highly skilled software engineer, build impactful technology products, and eventually lead my own technology company.
+Become a Software Engineer and build impactful technology products.
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+
+</tr>
+</table>
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI / ML & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-0078D4?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-00599C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Stats
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Debajit345&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit345&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -77,3 +113,5 @@ www.linkedin.com/in/debaxoid
 ---
 
 ### "Building skills today to create technology that impacts tomorrow."
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/debajit345/)
