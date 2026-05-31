@@ -4,7 +4,7 @@
 
 **Aspiring Software Engineer** • **AI/ML Enthusiast** • Intern at **@III** • **CSE Student**
 
-<img src="https://readme-typing-svg.demolab.com?lines=Building+impactful+technology+products&center=true&width=420&height=24&color=7AA2F7&vCenter=true&size=16&pause=2500" alt="Building impactful technology products" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+impactful+technology+products;Future+Entrepreneur;Robotics+Enthusiast;Aspiring+Software+Engineer;CSE+diploma+student+at+JIS+Polytechnic;AI+%26+ML+enthusiast+exploring+real-world+apps;Intern+at+III+-+learning+how+products+ship;Turning+ideas+into+working+code;Learning+Python%2C+C%2B%2B%2C+and+DSA;Innovation+through+real-world+software;Software+engineer+in+the+making&center=true&width=580&height=50&color=7AA2F7&vCenter=true&size=16&duration=3000&pause=1000" alt="Rotating taglines" />
 
 <br />
 
@@ -95,7 +95,7 @@
 
 <br />
 
-### 📫 Connect With Me
+### 📫 Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/debaxoid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
