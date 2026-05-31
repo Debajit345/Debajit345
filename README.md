@@ -46,9 +46,6 @@ To become a highly skilled software engineer, build impactful technology product
 
 ## 🚀 Featured Projects
 
-### 📚 Study Mesh
-AI-powered study assistant designed to help students learn more effectively.
-
 ### 🤖 Robotics Projects
 Built and presented robotics-based projects during technical competitions.
 
@@ -57,23 +54,13 @@ Presented research on innovations and practical applications of Artificial Intel
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 🏆 Goals for 2026
 
 - ✅ Master Python
 - ✅ Learn Advanced C++
 - 🔄 Build Full-Stack Projects
-- 🔄 Learn Cloud Computing
 - 🔄 Explore AI & Machine Learning
 - 🎯 Secure Software Development Internship
-- 🎯 Start Building My Own Tech Products
 
 ---
 
@@ -82,7 +69,7 @@ Presented research on innovations and practical applications of Artificial Intel
 📧 Email: debaxoid@gmail.com
 
 💼 LinkedIn:
-www.linkedin.com/in/debajit-biswas-1547942b9
+www.linkedin.com/in/debaxoid
 
 📸 Instagram:
 @dxrsh_exotic
