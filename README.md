@@ -66,27 +66,16 @@ Become a Software Engineer and build impactful technology products.
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
+## 🤖 Robotics Project
+Competition project showcasing robotics concepts and implementation.
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Debajit345&show_icons=true&theme=tokyonight"/>
+## 🎤 AI Innovation Presentation
+Research and presentation on innovations and real-world AI applications.
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debajit345&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Robotics Projects
-Built and presented robotics-based projects during technical competitions.
-
-### 🎤 AI Innovation Presentation
-Presented research on innovations and practical applications of Artificial Intelligence.
+## 📚 Study Mesh
+AI-powered study assistant currently under development.
 
 ---
 
@@ -100,18 +89,34 @@ Presented research on innovations and practical applications of Artificial Intel
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-📧 Email: debaxoid@gmail.com
+<p align="center">
 
-💼 LinkedIn:
-www.linkedin.com/in/debaxoid
+<img src="https://streak-stats.demolab.com?user=Debajit345&theme=tokyonight"/>
 
-📸 Instagram:
-@dxrsh_exotic
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/debaxoid">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:debaxoid@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://leetcode.com/u/debajit345/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
 
 ---
 
 ### "Building skills today to create technology that impacts tomorrow."
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/debajit345/)
