@@ -69,7 +69,6 @@
 | --- | --- |
 | **Robotics Project** | Competition project showcasing robotics concepts and implementation. |
 | **AI Innovation Presentation** | Research and presentation on innovations and real-world AI applications. |
-| **Study Mesh** | AI-powered study assistant currently under development. |
 
 ---
 
