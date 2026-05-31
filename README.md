@@ -4,34 +4,31 @@
 
 **Aspiring Software Engineer** • **AI/ML Enthusiast** • Intern at **@III** • **CSE Student**
 
+<img src="https://readme-typing-svg.demolab.com?lines=Building+impactful+technology+products&center=true&width=420&height=24&color=7AA2F7&vCenter=true&size=16&pause=2500" alt="Building impactful technology products" />
+
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=Debajit345&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Debajit345?style=flat&logo=github&label=Followers" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Debajit345?style=flat&logo=github&label=Stars" alt="GitHub stars" />
 
 </div>
 
----
+<br />
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="62%">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding" />
 
 - **Education:** Diploma Student in Computer Science & Technology — JIS School of Polytechnic, Kalyani
 - **Currently Learning:** Python, C++, Data Structures & Algorithms, AI & Machine Learning, Data Science, Web Development
 - **Goal:** Become a Software Engineer and build impactful technology products.
 
-    </td>
-    <td align="center" width="38%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
----
+<br />
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -61,18 +58,26 @@
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
----
+<br />
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description |
-| --- | --- |
-| **Robotics Project** | Competition project showcasing robotics concepts and implementation. |
-| **AI Innovation Presentation** | Research and presentation on innovations and real-world AI applications. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Robotics Project</strong><br/>
+      Competition project showcasing robotics concepts and implementation.
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI Innovation Presentation</strong><br/>
+      Research and presentation on innovations and real-world AI applications.
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## 🎯 Goals for 2026
+### 🎯 Goals for 2026
 
 - ✅ Master Python
 - ✅ Learn Advanced C++
@@ -80,31 +85,25 @@
 - 🔄 Explore AI & Machine Learning
 - 🎯 Secure Software Development Internship
 
----
+<br />
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Debajit345&theme=tokyonight" alt="GitHub streak" />
 </div>
 
----
+<br />
 
-## 📫 Connect
+### 📫 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/debaxoid">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:debaxoid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/debajit345/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/debaxoid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:debaxoid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/debajit345/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</div>
 
----
+<br />
 
 <div align="center">
 
