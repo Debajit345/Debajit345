@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Debajit Biswas
 
-**Aspiring Software Engineer** • **AI/ML Enthusiast** • Intern at **@III** • **CSE Student**
+**Aspiring Software Engineer** • **AI/ML Enthusiast** • **CSE Student**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+impactful+technology+products;Future+Entrepreneur;Robotics+Enthusiast;Aspiring+Software+Engineer;CSE+diploma+student+at+JIS+Polytechnic;AI+%26+ML+enthusiast+exploring+real-world+apps;Intern+at+III+-+learning+how+data+analytics;Turning+ideas+into+working+code;Learning+Python%2C+C%2B%2B%2C+and+DSA;Innovation+through+real-world+software;Software+engineer+in+the+making&center=true&width=580&height=50&color=7AA2F7&vCenter=true&size=16&duration=3000&pause=1000" alt="Rotating taglines" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+impactful+technology+products;Future+Entrepreneur;Robotics+Enthusiast;Aspiring+Software+Engineer;CSE+diploma+student+at+JIS+Polytechnic;AI+%26+ML+enthusiast+exploring+real-world+apps;learning+how+data+analytics;Turning+ideas+into+working+code;Learning+Python%2C+C%2B%2B%2C+and+DSA;Innovation+through+real-world+software;Software+engineer+in+the+making&center=true&width=580&height=50&color=7AA2F7&vCenter=true&size=16&duration=3000&pause=1000" alt="Rotating taglines" />
 
 <br />
 
